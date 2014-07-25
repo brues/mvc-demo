@@ -12,7 +12,7 @@ import com.mvc.modules.core.model.BaseIncrementIdModel;
  *
  * 用户
  */
-@ChineseName("用户")
+@ChineseName("后台用户")
 @NotLogged
 public class User extends BaseIncrementIdModel {
 
